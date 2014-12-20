@@ -1,0 +1,5 @@
+﻿<?php
+
+refreshFileSystem($rootPath);
+
+?>

@@ -1,0 +1,2 @@
+﻿Usage:
+	$ mv <file|directory> <file|director>

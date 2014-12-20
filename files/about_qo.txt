@@ -1,0 +1,1 @@
+Android uzerinde calisan, kullanicilarin gittikleri restoranlarda siparis vermek ve hesap istemek icin garsonlari beklemek zorunda kalmalarinin onune gecmeyi amaclayan bir uygulama.

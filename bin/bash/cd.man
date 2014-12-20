@@ -1,0 +1,3 @@
+﻿Usage: 
+	$ cd <directory>
+	$ cd

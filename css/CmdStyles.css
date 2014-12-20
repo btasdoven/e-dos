@@ -1,0 +1,32 @@
+﻿.ls_entry {
+	width : 110px;
+	display: inline-block;
+	/*float : left; */
+}
+
+.ls_folder {
+	color : rgb(108, 108, 172);
+	font-weight : bold;
+}
+
+.ls_sysfile {
+	color : rgb(108, 172, 108);
+	
+}
+
+.ls_table {
+	border : 0;
+	margin : 0;
+	padding : 0;
+	width : 100%;
+}
+
+.vi_container {
+	overflow:hidden;
+	width : 100%;
+	border : 0;
+	resize:none;
+	padding : 0;
+	margin : 0;
+	word-wrap: break-word;
+}
